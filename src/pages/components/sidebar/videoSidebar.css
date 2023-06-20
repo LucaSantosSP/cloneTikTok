@@ -1,11 +1,10 @@
-.videoSidebar{
-    position: absolute;
-    top: 50%;
-    right: 10px;
-    color: #fff;
+.videoSidebar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  color: #fff;
 }
-
-.videoSidebar__options{
-    padding: 20px;
-    text-align: center;
+.videoSidebar_options {
+  padding: 20px;
+  text-align: center;
 }
